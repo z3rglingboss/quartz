@@ -1,3 +1,7 @@
+---
+title: Justin's Quick Lindy Tips(i.e. Taxi Dancing guide)
+tags:
+---
 **Justin’s Quick Lindy Tips
 
 for group instruction in a social or festival environment (last updated 1.29.2023)
