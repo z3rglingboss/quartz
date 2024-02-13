@@ -1,6 +1,11 @@
 ---
-title: Justin's Quick Lindy Tips(i.e. Taxi Dancing guide)
+title: Justin's Quick Lindy Tips (i.e. Taxi Dancing guide)
 tags:
+  - dance
+  - swing
+  - lindyhop
+  - pedagogy
+  - wip
 ---
 **Justin’s Quick Lindy Tips
 
