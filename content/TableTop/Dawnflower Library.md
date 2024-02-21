@@ -1,1 +1,5 @@
-Is the temple in the city of #[[Otari]]
+---
+tags:
+  - Otari
+---
+Is the temple in the city of [[Otari]]
