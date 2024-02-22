@@ -7,10 +7,10 @@ That monster is guarding some treasure
   
 
 [[Tamily Tanderveil]] and the Bartender know each other
-The Great Sea Rail lines
+[[The Great Sea Rail]] lines
 [[Orichalcum]]
 [[Wrin Sivinxi]],
-Morlibint and Garrison Wreath
+Morlibint and [[Garrison Wreath]]
 [[Ravika Lu]], a secretary of the Otari Fishery
 
   
@@ -23,7 +23,7 @@ Morlibint and Garrison Wreath
 [[Garrison Wreath]] at [[Odd Stories]]
 [[Father Longsaddle]] at the [[Dawnflower Library]]
 [[Tamily Tanderveil]]
-The Surveyor
+The Surveyor (employee of the )
 [[Carman Rajani]], secretary of [[Otari Fishery]]
 [[William Hyde]], Barkeep
 [[Father Oliver]], the toymaker (bombmaker)
@@ -53,7 +53,7 @@ Start next session at the top of the day
 [[Sarenrae Priests and the Everlight Enclave]]
 Dryads take on the form of their choosing, namely 
 
-Zephra Swift and Duskwhisper Shadowmane
+[[Zephra Swift]] and [[Duskwhisper Shadowmane]]
 
 [[Eldergrove Tavern]] hosted by Mr. and Mrs. Gleam
 Gnome [[Messer Finefeast]]
@@ -66,7 +66,7 @@ The fey and the material realm are overlaid
 [[Brother Solarius]]
 [[Sister Lumi]]
 
-Everglen Fae
+[[Everglen Fae]]
 3rd child given to the gods
 Head father [[Baron Eldrath]]
 
@@ -78,4 +78,4 @@ Small pond rainbow flowers glitter purple hue a clearing, but the trees around y
 
 The in between places are not good
 
-The Sunlord of Saranrae is accompanied by 11 angelic figures
+The Sunlord of Sarenrae is accompanied by 11 angelic figures (Sunservants of Sarenrae)

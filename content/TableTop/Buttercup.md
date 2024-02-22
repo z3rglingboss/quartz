@@ -1,5 +1,5 @@
 ---
 title: Buttercup
 tags:
-  - PC
+  - player-character
 ---

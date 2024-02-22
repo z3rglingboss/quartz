@@ -1,3 +1,6 @@
+---
+tags:
+---
 The UNNAMED ADVENTURING PARTY consists of:
 [[Buttercup]]
 [[Tilk Thanderhorn]]

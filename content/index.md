@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to J.Win's awesome website
 ---
 
 This is a blank Quartz installation. Home Page.
