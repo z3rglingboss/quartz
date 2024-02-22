@@ -1,44 +1,61 @@
-import { formatDate, getDate } from "./Date"
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
-import { classNames } from "../util/lang"
-import { i18n } from "../i18n"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import type { JSX } from "preact"
 
-interface ContentMetaOptions {
-  /**
-   * Whether to display reading time
-   */
-  showReadingTime: boolean
-}
+import { format as formatDateFn, formatISO } from "date-fns"
 
-const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
-}
+const TimeMeta = ({ value }: { value: Date }) => (
+  <time dateTime={formatISO(value)} title={formatDateFn(value, "ccc w")}>
+    {formatDateFn(value, "MMM do yyyy")}
+  </time>
+)
 
-export default ((opts?: Partial<ContentMetaOptions>) => {
-  // Merge options with defaults
-  const options: ContentMetaOptions = { ...defaultOptions, ...opts }
-
-  function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
+export default (() => {
+  function ContentMetadata({ cfg, fileData }: QuartzComponentProps) {
     const text = fileData.text
-
     if (text) {
-      const segments: string[] = []
+      const segments: JSX.Element[] = []
+      const { text: timeTaken, words: _words } = readingTime(text)
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        if (fileData.dates.created) {
+          segments.push(
+            <span>
+              🌿 First published <TimeMeta value={fileData.dates.created} />
+            </span>,
+          )
+        }
+
+        if (fileData.dates.published) {
+          segments.push(
+            <span>
+              🧤 Last touched <TimeMeta value={fileData.dates.published} />
+            </span>,
+          )
+        }
       }
 
-      // Display reading time if enabled
-      if (options.showReadingTime) {
-        const { minutes, words: _words } = readingTime(text)
-        const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
-          minutes: Math.ceil(minutes),
-        })
-        segments.push(displayedTime)
-      }
+      segments.push(<span>⏲ {timeTaken}</span>)
 
-      return <p class={classNames(displayClass, "content-meta")}>{segments.join(", ")}</p>
+      segments.push(
+        <a
+          href={`https://github.com/chadly/garden/commits/v4/${fileData.filePath}`}
+          target="_blank"
+        >
+          🗓️ History
+        </a>,
+      )
+
+      return (
+        <p class="content-meta">
+          {segments.map((meta, idx) => (
+            <>
+              {meta}
+              {idx < segments.length - 1 ? <br /> : null}
+            </>
+          ))}
+        </p>
+      )
     } else {
       return null
     }
@@ -46,6 +63,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   ContentMetadata.css = `
   .content-meta {
+    display:flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 10;
+
     margin-top: 0;
     color: var(--gray);
   }
