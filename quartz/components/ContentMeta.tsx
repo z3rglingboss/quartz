@@ -21,7 +21,7 @@ export default (() => {
         if (fileData.dates.created) {
           segments.push(
             <span>
-              🌿 First published <TimeMeta value={fileData.dates.created} />
+              📗 First published <TimeMeta value={fileData.dates.created} />
             </span>,
           )
         }
@@ -29,7 +29,7 @@ export default (() => {
         if (fileData.dates.published) {
           segments.push(
             <span>
-              🧤 Last touched <TimeMeta value={fileData.dates.published} />
+              ✒️ Last touched <TimeMeta value={fileData.dates.published} />
             </span>,
           )
         }
