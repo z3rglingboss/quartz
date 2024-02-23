@@ -1,3 +1,3 @@
 ---
-title: TableTop Gaming Index
+title: TableTop Gaming
 ---
