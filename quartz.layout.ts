@@ -7,8 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/z3rglingboss/quartz",
     },
   }),
 }
@@ -23,15 +22,15 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
+	Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-	Component.RecentNotes({ title: "Recent posts" }),
-    Component.Darkmode(),
+	Component.DesktopOnly(Component.RecentNotes({ title: "Recent posts" })),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({ title: "Browse site:" })),
     Component.Backlinks(),
   ],
 }
