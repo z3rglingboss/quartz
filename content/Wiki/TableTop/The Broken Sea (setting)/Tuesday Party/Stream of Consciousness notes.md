@@ -1,4 +1,4 @@
-LAST WE LEFT OFF
+Some rumors that were collected by the parties
 One of the guys has been taking a bath in the river, so the fish are going bad.
 There’s underground dog racing going on.
 At nighttime there’s people who would feed monsters

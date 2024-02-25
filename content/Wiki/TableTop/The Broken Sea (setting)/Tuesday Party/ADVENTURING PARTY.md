@@ -1,5 +1,6 @@
 ---
 tags:
+  - pc
 ---
 The UNNAMED ADVENTURING PARTY consists of:
 [[Buttercup]]
