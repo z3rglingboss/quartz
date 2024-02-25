@@ -1,5 +1,0 @@
----
-title: Buttercup
-tags:
-  - "#pc"
----
