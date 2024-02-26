@@ -2,6 +2,7 @@
 tags:
   - obsidian
   - notetaking
+date: 2024-02-19
 ---
 An automatically generated list of Obisidan Plugins that I use:
 

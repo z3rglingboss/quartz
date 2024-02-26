@@ -1,7 +1,6 @@
 ---
-title: Garden 
-date:
+title: Garden
+date: 2024-02-26
 tags:
 ---
-
-This is the landing page for Garden. If you're seeing this, it means that JWin hasn't put anything here. Shame on him :'(
+My Garden is a place to plant ideas and eventually develop them into permanent memes to be documented in the [Wiki](Wiki/index.md).

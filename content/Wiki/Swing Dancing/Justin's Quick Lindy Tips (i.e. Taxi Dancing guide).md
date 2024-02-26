@@ -6,7 +6,7 @@ tags:
   - lindyhop
   - pedagogy
   - wip
-date: 2023-01-29
+date: 2018-12-10
 ---
 **Justin’s Quick Lindy Tips
 

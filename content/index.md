@@ -1,5 +1,6 @@
 ---
 title: Welcome to J.Win's awesome website
+date: 2024-01-01
 ---
 Hello! My name is Justin Nguyen, and welcome to my digital garden. I created this as a repository of my ideas, dogmas, and silly theories as a way to document my personal [memes.](https://en.wikipedia.org/wiki/Meme) 
 
