@@ -2,6 +2,7 @@
 date: 2024-02-27
 tags:
   - videogames
+  - evergreen
 ---
 
 | Game                     | Genre/Vibes       | Example song/link |
