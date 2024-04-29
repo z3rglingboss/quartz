@@ -1,3 +1,0 @@
----
-title: Menace Under Otari
----
