@@ -55,8 +55,7 @@ Dryads take on the form of their choosing, namely 
 
 [[Zephra Swift]] and [[Duskwhisper Shadowmane]]
 
-[[Eldergrove Tavern]] hosted by [[Mr. and Mrs. Gleam]]
-given to them by 
+[[Eldergrove Tavern]] hosted by Mr. and Mrs. Gleam
 Gnome [[Messer Finefeast]]
   
 
@@ -68,12 +67,10 @@ The fey and the material realm are overlaid
 [[Sister Lumi]]
 
 [[Everglen Fae]]
-
 3rd child given to the gods
-
 Head father [[Baron Eldrath]]
-[[Realmhopper]] is a slur for dryads
-Dark Elves
+
+Realmhopper
 
 Small pond rainbow flowers glitter purple hue a clearing, but the trees around you are spring inspired
 
@@ -82,8 +79,3 @@ Small pond rainbow flowers glitter purple hue a clearing, but the trees around y
 The in between places are not good
 
 The Sunlord of Sarenrae is accompanied by 11 angelic figures (Sunservants of Sarenrae)
-
-Triumph and Failure dream sequence
-
-[[Eamon ThistleLight]]
-
