@@ -32,9 +32,9 @@ The Surveyor (employee of the )
   
 
 [[Seaside Plants]], a collaboration of druid collectives
-Care of Young Dragons
-Dragon hunting Guide
-Dragon sketchbook - Lily’s Favorite Things About Dragons
+Care of Young Dragons, a  book found in [Odd Stories](Odd%20Stories.md)
+Dragon hunting Guide, a book found in [Odd Stories](Odd%20Stories.md)
+Dragon sketchbook - Lily’s Favorite Things About Dragons, a book found in [Odd Stories](Odd%20Stories.md)
 
   
 
@@ -55,8 +55,7 @@ Dryads take on the form of their choosing, namely 
 
 [[Zephra Swift]] and [[Duskwhisper Shadowmane]]
 
-[[Eldergrove Tavern]] hosted by [[Mr. and Mrs. Gleam]]
-given to them by 
+[[Eldergrove Tavern]] hosted by Mr. and Mrs. Gleam
 Gnome [[Messer Finefeast]]
   
 
@@ -68,22 +67,15 @@ The fey and the material realm are overlaid
 [[Sister Lumi]]
 
 [[Everglen Fae]]
-
 3rd child given to the gods
-
 Head father [[Baron Eldrath]]
-[[Realmhopper]] is a slur for dryads
-Dark Elves
+
+Realmhopper
 
 Small pond rainbow flowers glitter purple hue a clearing, but the trees around you are spring inspired
 
-[[Kyra]] is a childhood friend of Luca's
+[[Kyra]] is a childhood friend of [Luca](Luca.md)'s
 
 The in between places are not good
 
 The Sunlord of Sarenrae is accompanied by 11 angelic figures (Sunservants of Sarenrae)
-
-Triumph and Failure dream sequence
-
-[[Eamon ThistleLight]]
-
