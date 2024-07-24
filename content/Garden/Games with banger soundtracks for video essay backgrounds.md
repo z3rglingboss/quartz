@@ -27,4 +27,3 @@ tags:
 | Don't Starve Together    |                   |                   |
 | Enter the Gungeon        |                   |                   |
 | Maplestory               |                   |                   |
-|                          |                   |                   |
