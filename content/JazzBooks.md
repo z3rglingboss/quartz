@@ -13,33 +13,33 @@ Main Jam Companion Tracks
 
 Most Popular Songs:
 
-|★★★★★|All of Me|
-|★★★★★|Am I Blue?|
-|★★★★★|Blue Skies|
-|★★★★★|Comes Love|
-|★★★★★|Dream a Little Dream of Me|
-|★★★★★|Exactly Like You|
-|★★★★★|I Can’t Give You Anything But Love|
-|★★★★★|Mean to Me|
-|★★★★★|My Blue Heaven|
-|★★★★★|On the Sunny Side of the Street|
-|★★★★★|Pennies From Heaven|
-|★★★★★|You Are My Sunshine|
-|★★★★☆|A Fine Romance|
-|★★★★☆|After You’ve Gone|
-|★★★★☆|Dinah|
-|★★★★☆|Down By The Riverside|
-|★★★★☆|Four Or Five Times|
-|★★★★☆|I Can't Believe That You're In Love With Me|
-|★★★★☆|Just A Closer Walk With Thee|
-|★★★☆☆|As Long As I Live|
-|★★★☆☆|Baby Won't You Please Come Home?|
-|★★★☆☆|Between the Devil and the Deep Blue Sea|
-|★★★☆☆|Bill Bailey|
-|★★★☆☆|Careless Love|
-|★★★☆☆|Everybody Loves My Baby|
-|★★★☆☆|I'm in the Mood for Love|
-|★★★☆☆|Little Coquette|
-|★★★☆☆|Love Me or Leave Me|
-|★★★☆☆|St James Infirmary|
-|★★★☆☆|When I Take My Sugar to Tea|
+★★★★★	All of Me
+★★★★★	Am I Blue?
+★★★★★	Blue Skies
+★★★★★	Comes Love
+★★★★★	Dream a Little Dream of Me
+★★★★★	Exactly Like You
+★★★★★	I Can’t Give You Anything But Love
+★★★★★	Mean to Me
+★★★★★	My Blue Heaven
+★★★★★	On the Sunny Side of the Street
+★★★★★	Pennies From Heaven
+★★★★★	You Are My Sunshine
+★★★★☆	A Fine Romance
+★★★★☆	After You’ve Gone
+★★★★☆	Dinah
+★★★★☆	Down By The Riverside
+★★★★☆	Four Or Five Times
+★★★★☆	I Can't Believe That You're In Love With Me
+★★★★☆	Just A Closer Walk With Thee
+★★★☆☆	As Long As I Live
+★★★☆☆	Baby Won't You Please Come Home?
+★★★☆☆	Between the Devil and the Deep Blue Sea
+★★★☆☆	Bill Bailey
+★★★☆☆	Careless Love
+★★★☆☆	Everybody Loves My Baby
+★★★☆☆	I'm in the Mood for Love
+★★★☆☆	Little Coquette
+★★★☆☆	Love Me or Leave Me
+★★★☆☆	St James Infirmary
+★★★☆☆	When I Take My Sugar to Tea
