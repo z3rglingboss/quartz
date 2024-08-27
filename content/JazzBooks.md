@@ -1,7 +1,7 @@
 ---
 Here's where i keep my scores hehe:
 ---
-Main Jam Books
+Primary Jam Books
 - [C-Tuning Songbook](https://drive.google.com/file/d/1TNQwzLwQGNuFvDoyTS9W1KyrY0dQTJEQ/view?usp=drive_link)
 - [Bb-Tuning Songbook](https://drive.google.com/file/d/1tnrV7uTQma6pF8Ow7r947Cm_ZaOuR237/view?usp=drive_link)
 - [Bass Clef Songbook](https://drive.google.com/file/d/1EYlLNJnSshsLmPxSbV4BQpNKP0p7x3bb/view?usp=drive_link)
@@ -9,11 +9,12 @@ Main Jam Books
 - [Lyrics Songbook](https://drive.google.com/file/d/1K5YzHdD4MjB8P36-swDoaIxpYyp_4HlJ/view?usp=drive_link)
 
 
-Main Jam Companion Tracks
-- On [Spotify](https://open.spotify.com/playlist/32tmxMrLhunj1vIgtq2OeB?si=6812499440b64953)
-- On [Youtube](https://youtube.com/playlist?list=PLA9kV9vxpxOjB574i7UStG6cwReWFZ7U2&si=9XMMsJ9GuOE_QtS_) (practice tracks)
+Media  Tracks
+- Companion Playlist on [Spotify](https://open.spotify.com/playlist/32tmxMrLhunj1vIgtq2OeB?si=6812499440b64953)
+- Practice Tracks on [Youtube](https://youtube.com/playlist?list=PLA9kV9vxpxOjB574i7UStG6cwReWFZ7U2&si=9XMMsJ9GuOE_QtS_)
+- What are the vibes gonna be like? Anything from [this](https://youtu.be/2d87RDbLS_Y) to this
 
-Most Popular Songs:
+Most Popular Songs (i.e. "what songs will you guys probably play?"):
 
 - ★★★★★	All of Me
 - ★★★★★	Am I Blue?
