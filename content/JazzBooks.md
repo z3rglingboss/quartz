@@ -1,5 +1,6 @@
 ---
-Here's where i keep my scores hehe:
+Here's where i keep my scores hehe: 
+date: 2024-08-24
 ---
 Primary Jam Books
 - [C-Tuning Songbook](https://drive.google.com/file/d/1TNQwzLwQGNuFvDoyTS9W1KyrY0dQTJEQ/view?usp=drive_link)
